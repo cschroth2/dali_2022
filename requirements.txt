@@ -2,7 +2,7 @@ pathlib
 pandas
 matplotlib
 sklearn
-urllib
+#urllib
 zipfile
 scikit-learn
 tslearn

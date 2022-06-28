@@ -3,6 +3,6 @@ pandas
 matplotlib
 sklearn
 #urllib
-zipfile
+#zipfile
 scikit-learn
 tslearn

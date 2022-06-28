@@ -1,8 +1,5 @@
 pathlib
 pandas
 matplotlib
-sklearn
-#urllib
-#zipfile
 scikit-learn
 tslearn
